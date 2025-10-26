@@ -1,0 +1,6 @@
+
+{
+  "name": "Urban Heat Island Heatmap Simulation",
+  "description": "An interactive heatmap simulation demonstrating the factors that contribute to the Urban Heat Island (UHI) effect. Adjust impervious surfaces, population density, and green coverage to see their impact on urban temperature.",
+  "requestFramePermissions": []
+}
